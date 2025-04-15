@@ -1,0 +1,1 @@
+export const apiKey = 'AIzaSyA_cLH6G9zZXqVOPqx7KacvyWESvJsngoM'   //Google Api key for fetching the location
